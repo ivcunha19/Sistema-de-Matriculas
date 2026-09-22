@@ -1,5 +1,10 @@
 # Sistema-de-Matriculas
 
+Integrantes:
+
+* Ivo Villani Cunha
+* Miguel Honório Moreira Pena 
+
 ### Diagrama de casos de uso
 
 ![Diagrama de casos de uso](img/DiagramaDeCasosDeUso.png)
