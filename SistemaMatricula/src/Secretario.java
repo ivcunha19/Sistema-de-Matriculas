@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 public class Secretario {
 
-    private LinkedList<Materia> listaMaterias;
+    private LinkedList<Disciplina> listaDisciplinas;
 
     public Curriculo definirCurriculo(){
 

@@ -1,16 +1,16 @@
 import java.util.LinkedList;
 
-public class Materia {
+public class Disciplina {
     private Professor professor;
     private Curso curso;
     private int cargaHoraria;
 
     private String obrigatoriedade;
 
-    private  LinkedList<AlunoMateria> listAlunos;
+    private  LinkedList<Matricula> listAlunos;
 
     public boolean verificaContinuidade(){
-
+        
     }
 
     public LinkedList<Aluno> listaAlunos(){

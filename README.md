@@ -27,3 +27,8 @@ Integrantes:
 - Como professor que poder entrar no sistema para verificar os alunos que estão matriculados em cada disciplina.
 
 - Como usuário do sistema quero que o login e senha sejam validados para que somente usuário validados possam entrar.
+
+
+### Diagrama de Classes
+
+![Diagrama de Classes](img/DiagramaDeClasses.png)

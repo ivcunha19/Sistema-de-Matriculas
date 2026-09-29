@@ -3,17 +3,17 @@ import java.util.LinkedList;
 public class Aluno extends Usuario {
 
     private static int matricula;
-    private LinkedList<AlunoMateria> materias;
+    private LinkedList<Matricula> materias;
 
     public Aluno(){
         int codMatricula = 0;
     }
 
-    private AlunoMateria matricular(Materia materia){
+    private Matricula matricular(Disciplina materia){
         return null;
     }
 
-    private AlunoMateria cancelarMateria(AlunoMateria alunoMateria){
+    private Matricula cancelarMateria(Matricula alunoMateria){
         
     }
 }
